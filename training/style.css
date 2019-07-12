@@ -1,0 +1,11 @@
+.black {
+    background: black no-repeat;
+    width: 800px;
+    min-height: 800px;
+    position: relative;
+}
+
+.red {
+    background: red no-repeat;
+    position: absolute;
+}
