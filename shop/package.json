@@ -13,7 +13,7 @@
     "gulp-import-css": "^0.1.3",
     "gulp-sass-import": "^1.0.0",
     "gulp-watch": "^5.0.1",
-    "jquery": "^3.4.0"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {},
   "scripts": {
